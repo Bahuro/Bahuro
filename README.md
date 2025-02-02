@@ -15,13 +15,6 @@ Soy un apasionado por la **ciberseguridad**, el **pentesting**, el **análisis d
 
 ---
 
-### 📌 Proyectos Destacados
-
-🔹 **[Sistema de Encuestas con Razor Pages](https://github.com/tuusuario/proyecto-encuesta)** - Aplicación para gestionar encuestas con análisis de resultados en tablas dinámicas.  
-🔹 **[Modelo de Clasificación de Cáncer](https://github.com/tuusuario/modelo-cancer)** - Análisis comparativo de algoritmos de Machine Learning para detección de cáncer.  
-🔹 **[Seguridad y Pentesting](https://github.com/tuusuario/pentesting-tools)** - Herramientas y scripts para auditoría de seguridad informática.  
-
----
 
 ### 🌱 Actualmente Aprendiendo
 
@@ -33,8 +26,7 @@ Soy un apasionado por la **ciberseguridad**, el **pentesting**, el **análisis d
 
 ### 📬 Contáctame
 
-📧 **Correo:** juanroimer@ejemplo.com  
-🔗 **LinkedIn:** [linkedin.com/in/juanroimer](https://www.linkedin.com/in/juanroimer)  
-📂 **Portafolio:** [juanroimer.dev](https://juanroimer.dev)  
+📧 **Correo:** bautistahuingojuanroimer@gmail.com  
+
 
 🌟 *¡Siempre aprendiendo, siempre explorando!* 🚀
